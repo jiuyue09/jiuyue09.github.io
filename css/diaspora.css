@@ -316,7 +316,7 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
   .article .side {display:none}
   .comment .gt-btn-public .gt-btn-text:after{content:"";}
 }
-@media screen and (max-width:780px) {
+/* @media screen and (max-width:780px) {
   #header {top:40px;}
   #vibrant svg {display:none;}
   #vibrant div {opacity:0.3;}
@@ -351,4 +351,4 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
   .article .main{width:94%;}
   .article .side {display:none}
   .comment .gt-btn-public .gt-btn-text:after{content:"";}
-}
+} */
